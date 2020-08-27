@@ -2,7 +2,7 @@
 
 ## Opis
 
-Projekt strony internetowej, służącej do wyszukiwania i oceniania postaci z Kreskówki "Rick & Morty".
+Projekt strony internetowej, służącej do wyszukiwania i oceniania postaci z kreskówki "Rick & Morty".
 
 Strona korzysta z API proponowanego w mailu [rickandmortyapi.com](https://rickandmortyapi.com)
 
